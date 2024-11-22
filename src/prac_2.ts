@@ -1,3 +1,5 @@
+//-----------------------------------TYPE + INTERFACE + UNION + INTERSECTION ----------------------------------
+
 type UserX = {
     firstName: string;
     lastName: string;

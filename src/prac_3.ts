@@ -1,3 +1,5 @@
+//---------------------------TYPE CASTING + ARRAY + W3 EXERCISES ----------------------------------
+
 let name1 : string="23";
 let name2=parseInt(name1)
 console.log(typeof name2)
